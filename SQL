@@ -5,4 +5,4 @@ SQL Statements:-
 DDL(Data Defination Language)
 DML(Data Manipulation language )
 TCL(Transaction Control Language)
-DCL(Data Control Language)
+DCL(Data Control Language).
