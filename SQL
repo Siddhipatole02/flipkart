@@ -1,0 +1,8 @@
+SQL is structure query language.
+It is used to communicate with RDBMS.
+It is also known as Schema query language.
+SQL Statements:-
+DDL(Data Defination Language)
+DML(Data Manipulation language )
+TCL(Transaction Control Language)
+DCL(Data Control Language)
